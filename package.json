@@ -1,0 +1,22 @@
+{
+  "name": "is-ooxml",
+  "version": "0.0.1",
+  "description": "Detect if file buffer is an OOXML file type",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overra/is-ooxml.git"
+  },
+  "keywords": [
+    "detect",
+    "ooxml",
+    "file",
+    "type"
+  ],
+  "author": "Adam Snodgrass <overra@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overra/is-ooxml/issues"
+  },
+  "homepage": "https://github.com/overra/is-ooxml#readme"
+}
