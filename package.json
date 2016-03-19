@@ -1,6 +1,6 @@
 {
   "name": "is-ooxml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Detect if file buffer is an OOXML file type",
   "main": "index.js",
   "repository": {
