@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/overra/is-ooxml.git"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "detect",
     "ooxml",
